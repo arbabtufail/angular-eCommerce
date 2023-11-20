@@ -5,9 +5,10 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { MaterialModule } from './material/material/material.module';
 import { ProductComponent } from './product/product/product.component';
+import { ProductListingComponent } from './product/product-listing/product-listing.component';
 
 @NgModule({
-  declarations: [AppComponent, ProductComponent],
+  declarations: [AppComponent, ProductComponent, ProductListingComponent],
   imports: [BrowserModule, AppRoutingModule, MaterialModule],
   providers: [],
   bootstrap: [AppComponent],
