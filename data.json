@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "src": "https://shopivate.pk/wp-content/uploads/2023/08/1000236536.jpg",
+    "name": "Head Phone",
+    "price": 35,
+    "catergory": "Electronics",
+    "desricption": ""
+  },
+  {
+    "id": 2,
+    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr7Hub0YN94UCKfl9iAB49vaRO0ieA-Cjx0KxLKVtjZnMqk51a2I4618Tnr-KnzbGJ00s&usqp=CAU",
+    "name": "Keyboard",
+    "price": 45,
+    "catergory": "Electronics",
+    "desricption": ""
+  },
+  {
+    "id": 3,
+    "src": "https://images.priceoye.pk/yolo-pulse-bluetooth-speaker-pakistan-priceoye-bh4h7.jpg",
+    "name": "Bluetooth Speaker",
+    "price": 15,
+    "catergory": "Electronics",
+    "desricption": ""
+  },
+  {
+    "id": 4,
+    "src": "https://www.popsci.com/uploads/2021/03/24/Backlit_Compueter_Laptop.jpg?auto=webp",
+    "name": "Led Tv",
+    "price": 25,
+    "catergory": "Electronics",
+    "desricption": ""
+  }
+]

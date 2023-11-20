@@ -1,6 +1,9 @@
 {
   "name": "angular-e-commerce",
   "version": "0.0.0",
+  "engines": {
+    "node": "v18.14.0"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
